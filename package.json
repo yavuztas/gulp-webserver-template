@@ -1,0 +1,14 @@
+{
+  "name": "gulp-webserver-template",
+  "version": "0.0.1",
+  "description": "A basic boilerplate to serve static files over on gulp-webserver",
+  "scripts": {
+    "serve": "./node_modules/gulp/bin/gulp.js"
+  },
+  "author": "Yavuz Tas",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "4.0.2",
+    "gulp-webserver": "0.9.1"
+  }
+}
